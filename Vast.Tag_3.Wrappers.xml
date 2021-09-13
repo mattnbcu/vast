@@ -3,7 +3,7 @@
    <Ad id="t8aufsol">
       <Wrapper>
          <AdSystem version="1.0">The Trade Desk</AdSystem>
-         <VASTAdTagURI><![CDATA[https://gist.githubusercontent.com/ianshank/a29378842d6a2ee3b2a9c5df667b131b/raw/5ccd150dd6a87c79082f6af63fd17c15d81c3194/3.Wrapper_No2.xml]]></VASTAdTagURI>
+         <VASTAdTagURI><![CDATA[https://raw.githubusercontent.com/mattnbcu/vast/master/3.Wrapper_No2.xml]]></VASTAdTagURI>
          <Creatives>
             <Creative>
                <Linear />
