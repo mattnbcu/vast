@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<VAST version="2.0">
+    <Ad id="17shoj">
+        <InLine>
+            <AdSystem>Innovid Ads</AdSystem>
+            <AdTitle><![CDATA[CS~30 Seconds_BS~BMWS_RC~Business Unlimited Pricing_SC~Business Unlimited Pricing_SA~SMBGN_LG~ENG_TI~NTRD_CM~TNR_CV~VSO_OF~PLN_OD~NA_OV~30PL_OP~NA_FM~VOLV_TL~NO_PA~NA_FF~V1]]></AdTitle>
+            <Error><![CDATA[https://s.innovid.com/1x1.gif?project_hash=1h4gn6&client_id=3218&video_id=776666&channel_id=2477579&publisher_id=6082&placement_tag_id=0&project_state=2&r=1631637418724&placement_hash=17shoj&device_id=&action=error&event_id=vast_error&event_value=[ERRORCODE]&ivc_exdata=dipn%3Ddeviceid%26deviceid%3D%26iv_geo_dma%3D839%26iv_geo_country%3DUS%26iv_geo_city%3DLas+Vegas%26iv_geo_state%3DNV%26iv_geo_zip%3D89141%26iv_geo_lat%3D36.0128%26iv_geo_lon%3D-115.2036]]></Error>
+            <Impression><![CDATA[https://s.innovid.com/1x1.gif?project_hash=1h4gn6&client_id=3218&video_id=776666&channel_id=2477579&publisher_id=6082&placement_tag_id=0&project_state=2&r=1631637418724&placement_hash=17shoj&device_id=&action=init&ivc_exdata=dipn%3Ddeviceid%26deviceid%3D%26iv_geo_dma%3D839%26iv_geo_country%3DUS%26iv_geo_city%3DLas+Vegas%26iv_geo_state%3DNV%26iv_geo_zip%3D89141%26iv_geo_lat%3D36.0128%26iv_geo_lon%3D-115.2036]]></Impression>
+            <Impression><![CDATA[https://dts.innovid.com/placement/17shoj/uuid?cb=d476ce36-28d9-10fc-6171-63b9b444d05f]]></Impression>
+            <Creatives>
+                <Creative id="1h23kq" AdID="YVCC1216000H">
+                    <Linear >
+                        <Duration>00:00:30</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[https://s.innovid.com/1x1.gif?project_hash=1h4gn6&client_id=3218&video_id=776666&channel_id=2477579&publisher_id=6082&placement_tag_id=0&project_state=2&r=1631637418724&placement_hash=17shoj&device_id=&action=play&ivc_exdata=dipn%3Ddeviceid%26deviceid%3D%26iv_geo_dma%3D839%26iv_geo_country%3DUS%26iv_geo_city%3DLas+Vegas%26iv_geo_state%3DNV%26iv_geo_zip%3D89141%26iv_geo_lat%3D36.0128%26iv_geo_lon%3D-115.2036]]></Tracking>
+<Tracking event="start"><![CDATA[https://unified.adsafeprotected.com/vevent/impression/815301/56927766?ias_xadur=00:00:30:080&ias_xmtp=v&omidPartner=[OMIDPARTNER]&ias_xappb=[APPBUNDLE]&xsId=c022c7581af026d7282ca8087be18927cc99e903]]></Tracking>
+<Tracking event="start"><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N2998.3775742NBCPEACOCK/B26421209.313560349;dc_trk_aid=505894136;dc_trk_cid=157446724;u=TV2_PAI~IN_IMI~1631637418724_DSP~_BID~;ord=1631637418724;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=?]]></Tracking>
+<Tracking event="firstQuartile"><![CDATA[https://s.innovid.com/1x1.gif?project_hash=1h4gn6&client_id=3218&video_id=776666&channel_id=2477579&publisher_id=6082&placement_tag_id=0&project_state=2&r=1631637418724&placement_hash=17shoj&device_id=&action=vpoint&event_id=percent&event_value=25&ivc_exdata=dipn%3Ddeviceid%26deviceid%3D%26iv_geo_dma%3D839%26iv_geo_country%3DUS%26iv_geo_city%3DLas+Vegas%26iv_geo_state%3DNV%26iv_geo_zip%3D89141%26iv_geo_lat%3D36.0128%26iv_geo_lon%3D-115.2036]]></Tracking>
+<Tracking event="firstQuartile"><![CDATA[https://unified.adsafeprotected.com/vevent/firstQuartile/815301/56927766?xsId=c022c7581af026d7282ca8087be18927cc99e903]]></Tracking>
+<Tracking event="midpoint"><![CDATA[https://s.innovid.com/1x1.gif?project_hash=1h4gn6&client_id=3218&video_id=776666&channel_id=2477579&publisher_id=6082&placement_tag_id=0&project_state=2&r=1631637418724&placement_hash=17shoj&device_id=&action=vpoint&event_id=percent&event_value=50&ivc_exdata=dipn%3Ddeviceid%26deviceid%3D%26iv_geo_dma%3D839%26iv_geo_country%3DUS%26iv_geo_city%3DLas+Vegas%26iv_geo_state%3DNV%26iv_geo_zip%3D89141%26iv_geo_lat%3D36.0128%26iv_geo_lon%3D-115.2036]]></Tracking>
+<Tracking event="midpoint"><![CDATA[https://unified.adsafeprotected.com/vevent/midpoint/815301/56927766?xsId=c022c7581af026d7282ca8087be18927cc99e903]]></Tracking>
+<Tracking event="thirdQuartile"><![CDATA[https://s.innovid.com/1x1.gif?project_hash=1h4gn6&client_id=3218&video_id=776666&channel_id=2477579&publisher_id=6082&placement_tag_id=0&project_state=2&r=1631637418724&placement_hash=17shoj&device_id=&action=vpoint&event_id=percent&event_value=75&ivc_exdata=dipn%3Ddeviceid%26deviceid%3D%26iv_geo_dma%3D839%26iv_geo_country%3DUS%26iv_geo_city%3DLas+Vegas%26iv_geo_state%3DNV%26iv_geo_zip%3D89141%26iv_geo_lat%3D36.0128%26iv_geo_lon%3D-115.2036]]></Tracking>
+<Tracking event="thirdQuartile"><![CDATA[https://unified.adsafeprotected.com/vevent/thirdQuartile/815301/56927766?xsId=c022c7581af026d7282ca8087be18927cc99e903]]></Tracking>
+<Tracking event="complete"><![CDATA[https://s.innovid.com/1x1.gif?project_hash=1h4gn6&client_id=3218&video_id=776666&channel_id=2477579&publisher_id=6082&placement_tag_id=0&project_state=2&r=1631637418724&placement_hash=17shoj&device_id=&action=vpoint&event_id=percent&event_value=100&ivc_exdata=dipn%3Ddeviceid%26deviceid%3D%26iv_geo_dma%3D839%26iv_geo_country%3DUS%26iv_geo_city%3DLas+Vegas%26iv_geo_state%3DNV%26iv_geo_zip%3D89141%26iv_geo_lat%3D36.0128%26iv_geo_lon%3D-115.2036]]></Tracking>
+<Tracking event="complete"><![CDATA[https://unified.adsafeprotected.com/vevent/complete/815301/56927766?xsId=c022c7581af026d7282ca8087be18927cc99e903]]></Tracking>
+
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[https://dts.innovid.com/clktru/action/vclk?project_hash=1h4gn6&client_id=3218&video_id=776666&channel_id=2477579&publisher_id=6082&placement_tag_id=0&project_state=2&r=1631637418724&placement_hash=17shoj&device_id=&action=clktru&click=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Ftrackclk%2FN2998.3775742NBCPEACOCK%2FB26421209.313560349%3Bdc_trk_aid%3D505894136%3Bdc_trk_cid%3D157446724%3Bu%3DTV2_PAI%7EIN_IMI%7E1631637418724_DSP%7E_BID%7E%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bltd%3D]]></ClickThrough>
+                            
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" width="960" height="540" type="video/mp4" bitrate="1350"><![CDATA[https://s-static.innovid.com/media/encoded/07_21/449114/25_source_128890_578231.mp4]]></MediaFile><MediaFile delivery="progressive" width="640" height="360" type="video/mp4" bitrate="400"><![CDATA[https://s-static.innovid.com/media/encoded/07_21/449114/46_source_128890_578231.mp4]]></MediaFile><MediaFile delivery="progressive" width="960" height="540" type="video/mp4" bitrate="1250"><![CDATA[https://s-static.innovid.com/media/encoded/07_21/449114/47_source_128890_578231.mp4]]></MediaFile><MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="4125"><![CDATA[https://s-static.innovid.com/media/encoded/07_21/449114/48_source_128890_578231.mp4]]></MediaFile><MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="25000"><![CDATA[https://s-static.innovid.com/media/encoded/07_21/449114/49_source_128890_578231.mp4]]></MediaFile><MediaFile delivery="progressive" width="416" height="234" type="video/mp4" bitrate="400"><![CDATA[https://s-static.innovid.com/media/encoded/07_21/449114/50_source_128890_578231.mp4]]></MediaFile><MediaFile delivery="progressive" width="640" height="480" type="video/mp4" bitrate="1250"><![CDATA[https://s-static.innovid.com/media/encoded/07_21/449114/51_source_128890_578231.mp4]]></MediaFile><MediaFile delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="4125"><![CDATA[https://s-static.innovid.com/media/encoded/07_21/449114/52_source_128890_578231.mp4]]></MediaFile><MediaFile delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="25000"><![CDATA[https://s-static.innovid.com/media/encoded/07_21/449114/53_source_128890_578231.mp4]]></MediaFile>
+                        </MediaFiles>
+                        
+                    </Linear>
+                    
+                </Creative>
+                
+            </Creatives>
+            <Extensions>
+<Extension type="AD ID"> 
+    <UniversalAdId>
+        <Id>YVCC1216000H</Id>
+        <InCreativeAdId>Yes</InCreativeAdId>
+	</UniversalAdId>
+</Extension></Extensions>
+        </InLine>
+    </Ad>
+</VAST>
